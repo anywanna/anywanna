@@ -1,0 +1,4 @@
+<table>
+<td><a href="https://discord.com/users/848777054416666635"><img src=https://lanyard-profile-readme.vercel.app/api/848777054416666635?theme=dark&amp;bg=171a1f&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=10px&amp;locale=true" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/848777054416666635?theme=dark&amp;bg=171a1f&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=10px&amp;locale=true" style="max-width: 100%;"></a></td>
+<td><a href="https://discord.com/users/706668073221881917"><img src=https://lanyard-profile-readme.vercel.app/api/706668073221881917?theme=dark&amp;bg=171a1f&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=10px&amp;locale=true" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/706668073221881917?theme=dark&amp;bg=171a1f&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=10px&amp;locale=true" style="max-width: 100%;"></a></td>
+</table>
